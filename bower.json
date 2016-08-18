@@ -1,0 +1,17 @@
+{
+    "name": "nanumpenscript-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sandoll Communication"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/nanumpenscript-bower.git"
+    },
+    "description": "Nanum Pen Script font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
